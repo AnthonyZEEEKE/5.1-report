@@ -158,7 +158,7 @@ RPN 与检测网络共享特征，大幅减少了计算量
   3. 购买并配置新的有效VPN，完成Cursor Pro的激活
 
 5.2 实验记录
-????????????
+https://github.com/AnthonyZEEEKE/5.1-report/tree/main/yolov8n_pig
 
 ---
 6. 竞赛/实践任务进展
@@ -206,7 +206,7 @@ RPN 与检测网络共享特征，大幅减少了计算量
 - 想进一步了解的方向：边缘设备模型部署方法、异常行为检测算法。
 ---
  10. 附件：
-学习笔记：
+学习笔记：https://github.com/AnthonyZEEEKE/5.1-report/tree/main/report
 
 
 
